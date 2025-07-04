@@ -1,0 +1,17 @@
+Variable 
+Variable is used to store data or value that you can use further.
+There are three types of variable in javascript.
+VAR LET CONST
+1 VAR
+(
+var is old in E5 version 
+var function scope
+var can be redecleared or reasign
+)
+2 LET
+LET and CONST introduced in eS6 version
+(
+They are block sccoped they only works where they created like in brackets they don't work in outside of the brackets.
+LET value can be change after initializing a value.
+CONST value will not change after initialization
+)
