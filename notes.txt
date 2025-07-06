@@ -15,3 +15,42 @@ They are block sccoped they only works where they created like in brackets they 
 LET value can be change after initializing a value.
 CONST value will not change after initialization
 )
+
+
+DataTypes
+data type is use to identify what type of is being in variable there are several data types.
+string
+number
+boolean
+bigint 123456789012345678901234567890n
+
+Operators
+are the symbols or keywords that are used to perform any logical operations on values.
+
+Arithmetic Operators
++
+-
+*
+/
+%
+**
+Assignment Operators
+a = 10 
+to perform a operation on a existing value like a + 2 = a.
+=
++=    
+-=
+/=
+%=
+Comparison Operators
+==
+===
+>
+<
+>=
+<=
+!
+!==
+Logical Operators
+&&
+||
