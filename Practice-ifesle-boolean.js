@@ -118,3 +118,27 @@ function result(marks){
     }
 }
 console.log(result(marks))
+
+//Write a function that takes two numbers and returns the larger number.
+
+let a = 300
+let b = 200
+
+function big(a,b){
+    if (a > b) {
+        return a
+    }
+    else{
+        return b
+    }
+}
+console.log(big(a,b))
+
+//Using Ternary
+let c = 3000
+let d = 2000
+
+function big(c,d){
+    return c > d ? c : d
+}
+console.log(big(c,d))
